@@ -45,6 +45,7 @@ import numpy as np
 ```
 ## Output
 ![9 exp math](https://github.com/ARAVIND-23/Univariate-Linear-Regression/assets/138970182/ab25ca28-8bbb-45d9-8725-fdcc32cdeb01)
+![Screenshot 2024-05-18 114754](https://github.com/ARAVIND-23/Univariate-Linear-Regression/assets/138970182/b6e8d400-0b28-44c5-a20a-a41147df2c32)
 
 
 ## Result
